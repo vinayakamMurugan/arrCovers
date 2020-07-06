@@ -1,0 +1,25 @@
+.profileName{    display: inline-block;
+color: #e4b019;
+width: fit-content;
+position: absolute;
+left: 30%;
+
+}
+
+.profileimg{
+    width: 52px;
+    padding-left: 0.9rem;
+}
+
+.profile{
+    display: inline-block;
+    padding-bottom: 0.7rem;
+    padding-top: 0.5rem;
+}
+
+.name{
+    width:10rem;
+    word-break: break-word;
+    white-space: normal;
+    text-transform:capitalize;
+}

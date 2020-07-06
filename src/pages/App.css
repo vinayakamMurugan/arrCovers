@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet ');
+
+
+.App {
+  height:100%;
+  width:100%;
+
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.pageHeader{
+  top:0;
+  left:0;
+  width:100%;
+}
+
+.App-logo-page {
+  position:absolute;
+  height: 10vmin;
+  left:0;
+  padding:0px;
+  margin:0px;
+}
+
+.toolbar{
+  width:98%;
+  text-align:right;
+}
+
+
+li{
+  list-style-type:none;
+}
+
+.App-header {
+  background-color:white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: 282c34;
+}
+
+
+body{
+  background-color:white !important;
+  height:100%;
+}
