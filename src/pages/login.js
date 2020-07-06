@@ -101,7 +101,7 @@ export default function LoginTab() {
             <form className={classes.form} noValidate>
               
               <GoogleLogin
-                clientId="773843622031-ag9090evuqqmapej0p1lqdg6t2gudnu6.apps.googleusercontent.com"
+                clientId="992194632240-64v308fhu5olmagpg8qtr3hj25usag2v.apps.googleusercontent.com"
                 buttonText="Login with Google"
                 className={classes.google}
                 onSuccess={successGoogle}
